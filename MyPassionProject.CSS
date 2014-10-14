@@ -1,13 +1,14 @@
 body{
 
 	background: teal;
+}
 .pictures {
 	margin: 0 auto; 
 	text-align: center;
 	display: inline-block;
 }
 .fifty img{
-	width: 50%
+	width: 100%
 }
 .left{
 	float: left;
@@ -21,4 +22,10 @@ float: right;
 div{ 
 	float: none;
 }
+.justify{
+	text-align: justify;
+
+}
+.WhiteText{
+	color:white;
 }
